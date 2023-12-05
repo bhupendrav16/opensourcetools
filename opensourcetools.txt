@@ -1,0 +1,21 @@
+1.vagrant: for management of virtual machine.
+
+2.Ansible: it is an automation configuration and infrastruture , to do repetitive tasks
+
+3.Gitlab: for manage repository & open source
+
+4.Jenkins: it is an application automation tool used for ci/cd.
+
+5.kafka: distributed event streaming tool.
+
+6.Elasticsearch: it is for adaptive search.
+
+7.Openstack: for iaas, building and management of private and public cloud.
+
+8.Grafana: data analysis tools
+
+9.Prometheus: data source tool
+
+10.Kubernative: management of containers.
+
+11.Docker: build, create and deploy in container.
